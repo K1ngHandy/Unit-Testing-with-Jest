@@ -1,4 +1,6 @@
 ## INDEX
 Unit Testing w/ Jest
 
-## Contents:
+## Contents
+    1. README --
+    2. Unit Testing: 
