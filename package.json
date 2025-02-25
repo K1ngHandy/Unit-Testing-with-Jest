@@ -1,0 +1,20 @@
+{
+  "name": "unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "Unit Testing w/ Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K1ngHandy/Unit-Testing-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K1ngHandy/Unit-Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/K1ngHandy/Unit-Testing-with-Jest#readme"
+}
